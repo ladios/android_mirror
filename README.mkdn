@@ -11,7 +11,7 @@ Mirroring CyanogenMod
 
 	mkdir <path_to_mirror>
 	cd <path_to_mirror>
-	repo init --mirror -u git://github.com/ladios/android_mirror.git
+	repo init --mirror -u git://github.com/CyanogenMod/android_mirror.git
 	repo sync
 
 #### Step 2: Initialize a client from the mirror
@@ -33,7 +33,7 @@ Mirroring CyanogenMod
 
 	mkdir /usr/local/cm-mirror
 	cd /usr/local/cm-mirror
-	repo init --mirror -u git://github.com/ladios/android_mirror.git
+	repo init --mirror -u git://github.com/CyanogenMod/android_mirror.git
 	repo sync
 	mkdir /usr/local/cm-ics
 	cd /usr/local/cm-ics
