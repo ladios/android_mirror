@@ -1,0 +1,52 @@
+android_mirror
+==============
+
+A manifest that lists all the [CyanogenMod][cm] projects.
+
+
+Mirroring CyanogenMod
+---------------------
+
+#### Step 1: Initialize a mirror
+
+	mkdir <path_to_mirror>
+	cd <path_to_mirror>
+	repo init --mirror -u git://github.com/ladios/android_mirror.git
+	repo sync
+
+#### Step 2: Initialize a client from the mirror
+
+	mkdir <path_to_client>
+	cd <path_to_client>
+	repo init -u <path_to_mirror>/CyanogenMod/android.git -b <branch_name>
+	repo sync
+
+#### Step 3: Initialize the client again from GitHub
+
+	repo init -u git://github.com/CyanogenMod/android.git
+	repo sync
+
+#### Done.
+
+
+### Example
+
+	mkdir /usr/local/cm-mirror
+	cd /usr/local/cm-mirror
+	repo init --mirror -u git://github.com/ladios/android_mirror.git
+	repo sync
+	mkdir /usr/local/cm-ics
+	cd /usr/local/cm-ics
+	repo init -u /usr/local/cm-mirror/CyanogenMod/android.git -b ics
+	repo sync
+	repo init -u git://github.com/CyanogenMod/android.git
+	repo sync
+
+
+Reference
+---------
+
+ * [Mirroring AOSP](http://groups.google.com/group/android-building/browse_thread/thread/da02f0aa3950ab70/)
+
+
+[cm]: https://github.com/CyanogenMod
