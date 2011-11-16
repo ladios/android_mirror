@@ -258,6 +258,7 @@
   <project name="CyanogenMod/android_hardware_ti_wlan" />
   <project name="CyanogenMod/android_hardware_ti_wpan" />
   <project name="CyanogenMod/android_libcore" />
+  <project name="CyanogenMod/android_mirror" />
   <project name="CyanogenMod/android_ndk" />
   <project name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
   <project name="CyanogenMod/android_packages_apps_ADWLauncher" />
