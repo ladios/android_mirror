@@ -21,9 +21,9 @@ get_projs() {
 	done
 }
 
-HEAD=$((`grep -n '<project ' manifest.xml | head -n 1 | cut -d ':' -f 1` - 1))
-TAIL=$((`grep -n '<project ' manifest.xml | tail -n 1 | cut -d ':' -f 1` + 1))
+HEAD=$((`grep -n '<project ' default.xml | head -n 1 | cut -d ':' -f 1` - 1))
+TAIL=$((`grep -n '<project ' default.xml | tail -n 1 | cut -d ':' -f 1` + 1))
 
-head -n $HEAD manifest.xml 
+head -n $HEAD default.xml
 get_projs CyanogenMod | sed -e 's#\(.*\)#  <project name="\1" />#'
-tail -n +$TAIL manifest.xml
+tail -n +$TAIL default.xml
