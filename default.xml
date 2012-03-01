@@ -17,6 +17,7 @@
   <project name="CyanogenMod/android_development" />
   <project name="CyanogenMod/android_device_advent_vega" />
   <project name="CyanogenMod/android_device_asus_tf101" />
+  <project name="CyanogenMod/android_device_asus_tf201" />
   <project name="CyanogenMod/android_device_bn_encore" />
   <project name="CyanogenMod/android_device_common" />
   <project name="CyanogenMod/android_device_commtiva_z71" />
@@ -25,6 +26,7 @@
   <project name="CyanogenMod/android_device_geeksphone_one" />
   <project name="CyanogenMod/android_device_geeksphone_zero" />
   <project name="CyanogenMod/android_device_generic" />
+  <project name="CyanogenMod/android_device_hp_tenderloin" />
   <project name="CyanogenMod/android_device_htc_7x30-recovery" />
   <project name="CyanogenMod/android_device_htc_ace" />
   <project name="CyanogenMod/android_device_htc_bravo" />
@@ -57,12 +59,20 @@
   <project name="CyanogenMod/android_device_huawei_ascend" />
   <project name="CyanogenMod/android_device_huawei_u8150" />
   <project name="CyanogenMod/android_device_huawei_u8220" />
+  <project name="CyanogenMod/android_device_lge_c660" />
+  <project name="CyanogenMod/android_device_lge_e510" />
+  <project name="CyanogenMod/android_device_lge_e730" />
+  <project name="CyanogenMod/android_device_lge_e739" />
+  <project name="CyanogenMod/android_device_lge_p500" />
+  <project name="CyanogenMod/android_device_lge_p920" />
+  <project name="CyanogenMod/android_device_lge_p925" />
   <project name="CyanogenMod/android_device_lge_p970" />
   <project name="CyanogenMod/android_device_lge_p990" />
   <project name="CyanogenMod/android_device_lge_p999" />
   <project name="CyanogenMod/android_device_lge_star-common" />
   <project name="CyanogenMod/android_device_lge_thunderc" />
   <project name="CyanogenMod/android_device_lge_thunderg" />
+  <project name="CyanogenMod/android_device_lge_victor-common" />
   <project name="CyanogenMod/android_device_malata_smb-common" />
   <project name="CyanogenMod/android_device_malata_smb_a1002" />
   <project name="CyanogenMod/android_device_malata_smb_a1004" />
@@ -81,6 +91,9 @@
   <project name="CyanogenMod/android_device_motorola_stingray" />
   <project name="CyanogenMod/android_device_motorola_triumph" />
   <project name="CyanogenMod/android_device_motorola_zeppelin" />
+  <project name="CyanogenMod/android_device_moto_common" />
+  <project name="CyanogenMod/android_device_moto_stingray" />
+  <project name="CyanogenMod/android_device_moto_wingray" />
   <project name="CyanogenMod/android_device_sample" />
   <project name="CyanogenMod/android_device_samsung_aries-common" />
   <project name="CyanogenMod/android_device_samsung_bmlunlock" />
@@ -91,6 +104,7 @@
   <project name="CyanogenMod/android_device_samsung_crespo" />
   <project name="CyanogenMod/android_device_samsung_crespo4g" />
   <project name="CyanogenMod/android_device_samsung_epic4g" />
+  <project name="CyanogenMod/android_device_samsung_epicmtd" />
   <project name="CyanogenMod/android_device_samsung_fascinate" />
   <project name="CyanogenMod/android_device_samsung_fascinatemtd" />
   <project name="CyanogenMod/android_device_samsung_galaxyace" />
@@ -102,10 +116,15 @@
   <project name="CyanogenMod/android_device_samsung_herring" />
   <project name="CyanogenMod/android_device_samsung_maguro" />
   <project name="CyanogenMod/android_device_samsung_mesmerizemtd" />
+  <project name="CyanogenMod/android_device_samsung_p4-common" />
+  <project name="CyanogenMod/android_device_samsung_p4tmo" />
+  <project name="CyanogenMod/android_device_samsung_p4vzw" />
+  <project name="CyanogenMod/android_device_samsung_p4wifi" />
   <project name="CyanogenMod/android_device_samsung_p7100" />
   <project name="CyanogenMod/android_device_samsung_showcasemtd" />
   <project name="CyanogenMod/android_device_samsung_sidekick4g" />
   <project name="CyanogenMod/android_device_samsung_tass" />
+  <project name="CyanogenMod/android_device_samsung_toro" />
   <project name="CyanogenMod/android_device_samsung_tuna" />
   <project name="CyanogenMod/android_device_samsung_vibrant" />
   <project name="CyanogenMod/android_device_samsung_vibrantmtd" />
@@ -113,6 +132,8 @@
   <project name="CyanogenMod/android_device_semc_anzu" />
   <project name="CyanogenMod/android_device_semc_coconut" />
   <project name="CyanogenMod/android_device_semc_es209ra" />
+  <project name="CyanogenMod/android_device_semc_fuji" />
+  <project name="CyanogenMod/android_device_semc_haida" />
   <project name="CyanogenMod/android_device_semc_hallon" />
   <project name="CyanogenMod/android_device_semc_iyokan" />
   <project name="CyanogenMod/android_device_semc_mango" />
@@ -233,6 +254,7 @@
   <project name="CyanogenMod/android_external_wireless-tools" />
   <project name="CyanogenMod/android_external_wpa_supplicant" />
   <project name="CyanogenMod/android_external_wpa_supplicant_6" />
+  <project name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project name="CyanogenMod/android_external_xmlwriter" />
   <project name="CyanogenMod/android_external_yaffs2" />
   <project name="CyanogenMod/android_external_zlib" />
@@ -243,10 +265,13 @@
   <project name="CyanogenMod/android_frameworks_policies_base" />
   <project name="CyanogenMod/android_hardware_alsa_sound" />
   <project name="CyanogenMod/android_hardware_broadcom_wlan" />
+  <project name="CyanogenMod/android_hardware_cm" />
   <project name="CyanogenMod/android_hardware_gpsshim" />
   <project name="CyanogenMod/android_hardware_libhardware" />
   <project name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project name="CyanogenMod/android_hardware_msm7k" />
+  <project name="CyanogenMod/android_hardware_qcom_camera" />
+  <project name="CyanogenMod/android_hardware_qcom_display" />
   <project name="CyanogenMod/android_hardware_qcom_gps" />
   <project name="CyanogenMod/android_hardware_qcom_media" />
   <project name="CyanogenMod/android_hardware_qcom_mm-core" />
@@ -257,8 +282,10 @@
   <project name="CyanogenMod/android_hardware_ti_omx" />
   <project name="CyanogenMod/android_hardware_ti_syslink" />
   <project name="CyanogenMod/android_hardware_ti_tiler" />
+  <project name="CyanogenMod/android_hardware_ti_wl12xx" />
   <project name="CyanogenMod/android_hardware_ti_wlan" />
   <project name="CyanogenMod/android_hardware_ti_wpan" />
+  <project name="CyanogenMod/android_kernel_samsung_victory" />
   <project name="CyanogenMod/android_libcore" />
   <project name="CyanogenMod/android_mirror" />
   <project name="CyanogenMod/android_ndk" />
@@ -312,6 +339,7 @@
   <project name="CyanogenMod/android_packages_apps_Superuser" />
   <project name="CyanogenMod/android_packages_apps_Tag" />
   <project name="CyanogenMod/android_packages_apps_Torch" />
+  <project name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project name="CyanogenMod/android_packages_apps_TSCalibration" />
   <project name="CyanogenMod/android_packages_apps_Usb" />
   <project name="CyanogenMod/android_packages_apps_VoiceDialer" />
@@ -345,6 +373,8 @@
   <project name="CyanogenMod/android_vendor_google_passion" />
   <project name="CyanogenMod/android_vendor_htc_dream_sapphire" />
   <project name="CyanogenMod/android_vendor_qcom_android-open" />
+  <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
+  <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project name="CyanogenMod/android_vendor_tmobile_products_themes" />
@@ -354,6 +384,7 @@
   <project name="CyanogenMod/cm-kernel" />
   <project name="CyanogenMod/CMBalance" />
   <project name="CyanogenMod/CMStatsServer" />
+  <project name="CyanogenMod/device_htc_marvel" />
   <project name="CyanogenMod/geeksphone-kernel-zero" />
   <project name="CyanogenMod/hp-kernel-tenderloin" />
   <project name="CyanogenMod/htc-kernel-espresso" />
@@ -363,13 +394,18 @@
   <project name="CyanogenMod/htc-kernel-msm7x30" />
   <project name="CyanogenMod/htc-kernel-pyramid" />
   <project name="CyanogenMod/htc-kernel-supersonic" />
+  <project name="CyanogenMod/hudson" />
   <project name="CyanogenMod/kernel-omap" />
   <project name="CyanogenMod/lge-kernel-cosmo" />
+  <project name="CyanogenMod/lge-kernel-iproj" />
+  <project name="CyanogenMod/lge-kernel-msm7x27" />
+  <project name="CyanogenMod/lge-kernel-msm7x30" />
   <project name="CyanogenMod/lge-kernel-sniper" />
   <project name="CyanogenMod/lge-kernel-star" />
   <project name="CyanogenMod/samsung-kernel-c1" />
   <project name="CyanogenMod/samsung-kernel-crespo" />
   <project name="CyanogenMod/samsung-kernel-galaxys" />
+  <project name="CyanogenMod/samsung-kernel-hercules" />
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project name="CyanogenMod/tools_repo" />
 
