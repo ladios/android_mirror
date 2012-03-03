@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--
+  Copy this file to <cm_root>/.repo/local_manifest.xml
+  and then remove the lines of undesired projects.
+-->
+  <project path="vendor/akm" name="koush/proprietary_vendor_akm" />
+  <project path="vendor/bn" name="koush/proprietary_vendor_bn" />
+  <project path="vendor/broadcom" name="koush/proprietary_vendor_broadcom" />
+  <project path="vendor/commtiva" name="koush/proprietary_vendor_commtiva" />
+  <project path="vendor/geeksphone" name="koush/proprietary_vendor_geeksphone" />
+  <project path="vendor/google" name="koush/proprietary_vendor_google" />
+  <project path="vendor/htc" name="koush/proprietary_vendor_htc" />
+  <project path="vendor/huawei" name="koush/proprietary_vendor_huawei" />
+  <project path="vendor/imgtec" name="koush/proprietary_vendor_imgtec" />
+  <project path="vendor/lge" name="koush/proprietary_vendor_lge" />
+  <project path="vendor/malata" name="koush/proprietary_vendor_malata" />
+  <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" />
+  <project path="vendor/nvidia" name="koush/proprietary_vendor_nvidia" />
+  <project path="vendor/nxp" name="koush/proprietary_vendor_nxp" />
+  <project path="vendor/samsung" name="koush/proprietary_vendor_samsung" />
+  <project path="vendor/semc" name="koush/proprietary_vendor_semc" />
+  <project path="vendor/zte" name="koush/proprietary_vendor_zte" />
+
+</manifest>

@@ -24,6 +24,11 @@ Fetch from AOSP mirror first (optional, but highly recommended)
 	repo init -u <path_to_aosp_mirror>/platform/manifest.git
 	repo sync
 
+Copy and edit local_manifest.xml which contains proprietary projects (optional)
+
+	cp <path_to_cm_mirror>/ladios/android_mirror/local_manifest.xml.sample .repo/local_manifest.xml
+	vi .repo/local_manifest.xml
+
 Fetch from CyanogenMod mirror
 
 	repo init -u <path_to_cm_mirror>/CyanogenMod/android.git -b <branch_name>
@@ -47,6 +52,8 @@ Fetch from CyanogenMod mirror
 	cd /usr/local/cm-ics
 	repo init -u /usr/local/aosp-mirror/platform/manifest.git
 	repo sync
+	cp /usr/local/cm-mirror/ladios/android_mirror/local_manifest.xml.sample .repo/local_manifest.xml
+	vi .repo/local_manifest.xml
 	repo init -u /usr/local/cm-mirror/CyanogenMod/android.git -b ics
 	repo sync
 	repo init -u git://github.com/CyanogenMod/android.git
