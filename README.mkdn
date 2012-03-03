@@ -9,16 +9,24 @@ Mirroring CyanogenMod
 
 #### Step 1: Initialize a mirror
 
-	mkdir <path_to_mirror>
-	cd <path_to_mirror>
+	mkdir <path_to_cm_mirror>
+	cd <path_to_cm_mirror>
 	repo init --mirror -u git://github.com/ladios/android_mirror.git
 	repo sync
 
-#### Step 2: Initialize a client from the mirror
+#### Step 2: Initialize a client from the mirror(s)
 
 	mkdir <path_to_client>
 	cd <path_to_client>
-	repo init -u <path_to_mirror>/CyanogenMod/android.git -b <branch_name>
+
+Fetch from AOSP mirror first (optional, but highly recommended)
+
+	repo init -u <path_to_aosp_mirror>/platform/manifest.git
+	repo sync
+
+Fetch from CyanogenMod mirror
+
+	repo init -u <path_to_cm_mirror>/CyanogenMod/android.git -b <branch_name>
 	repo sync
 
 #### Step 3: Initialize the client again from GitHub
@@ -37,6 +45,8 @@ Mirroring CyanogenMod
 	repo sync
 	mkdir /usr/local/cm-ics
 	cd /usr/local/cm-ics
+	repo init -u /usr/local/aosp-mirror/platform/manifest.git
+	repo sync
 	repo init -u /usr/local/cm-mirror/CyanogenMod/android.git -b ics
 	repo sync
 	repo init -u git://github.com/CyanogenMod/android.git
