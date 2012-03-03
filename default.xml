@@ -120,6 +120,9 @@
   <project name="CyanogenMod/android_device_samsung_p4tmo" />
   <project name="CyanogenMod/android_device_samsung_p4vzw" />
   <project name="CyanogenMod/android_device_samsung_p4wifi" />
+  <project name="CyanogenMod/android_device_samsung_p5" />
+  <project name="CyanogenMod/android_device_samsung_p5-common" />
+  <project name="CyanogenMod/android_device_samsung_p5wifi" />
   <project name="CyanogenMod/android_device_samsung_p7100" />
   <project name="CyanogenMod/android_device_samsung_showcasemtd" />
   <project name="CyanogenMod/android_device_samsung_sidekick4g" />
