@@ -154,6 +154,7 @@
   <project name="CyanogenMod/android_device_semc_zeusc" />
   <project name="CyanogenMod/android_device_yuhua_x2" />
   <project name="CyanogenMod/android_device_zte_blade" />
+  <project name="CyanogenMod/android_device_zte_skate" />
   <project name="CyanogenMod/android_device_zte_v9" />
   <project name="CyanogenMod/android_external_alsa-lib" />
   <project name="CyanogenMod/android_external_alsa-utils" />
@@ -262,6 +263,7 @@
   <project name="CyanogenMod/android_external_yaffs2" />
   <project name="CyanogenMod/android_external_zlib" />
   <project name="CyanogenMod/android_frameworks_base" />
+  <project name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project name="CyanogenMod/android_frameworks_compile_slang" />
   <project name="CyanogenMod/android_frameworks_ex" />
   <project name="CyanogenMod/android_frameworks_opt_emoji" />
