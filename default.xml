@@ -114,6 +114,7 @@
   <project name="CyanogenMod/android_device_samsung_galaxysbmtd" />
   <project name="CyanogenMod/android_device_samsung_galaxysmtd" />
   <project name="CyanogenMod/android_device_samsung_herring" />
+  <project name="CyanogenMod/android_device_samsung_i777" />
   <project name="CyanogenMod/android_device_samsung_maguro" />
   <project name="CyanogenMod/android_device_samsung_mesmerizemtd" />
   <project name="CyanogenMod/android_device_samsung_p4-common" />
@@ -203,6 +204,7 @@
   <project name="CyanogenMod/android_external_jdiff" />
   <project name="CyanogenMod/android_external_jhead" />
   <project name="CyanogenMod/android_external_jpeg" />
+  <project name="CyanogenMod/android_external_jpeg-turbo" />
   <project name="CyanogenMod/android_external_jsr305" />
   <project name="CyanogenMod/android_external_junit" />
   <project name="CyanogenMod/android_external_kernel-headers" />
@@ -282,6 +284,7 @@
   <project name="CyanogenMod/android_hardware_qcom_mm-core" />
   <project name="CyanogenMod/android_hardware_qcom_mm-video" />
   <project name="CyanogenMod/android_hardware_ril" />
+  <project name="CyanogenMod/android_hardware_samsung" />
   <project name="CyanogenMod/android_hardware_ti_omap3" />
   <project name="CyanogenMod/android_hardware_ti_omap3-compat" />
   <project name="CyanogenMod/android_hardware_ti_omx" />
