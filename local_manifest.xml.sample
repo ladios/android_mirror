@@ -10,6 +10,7 @@
   <project path="vendor/commtiva" name="koush/proprietary_vendor_commtiva" />
   <project path="vendor/geeksphone" name="koush/proprietary_vendor_geeksphone" />
   <project path="vendor/google" name="koush/proprietary_vendor_google" />
+  <project path="vendor/hp" name="koush/proprietary_vendor_hp" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" />
   <project path="vendor/huawei" name="koush/proprietary_vendor_huawei" />
   <project path="vendor/imgtec" name="koush/proprietary_vendor_imgtec" />
