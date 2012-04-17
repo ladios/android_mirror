@@ -52,7 +52,10 @@
   <project name="CyanogenMod/android_device_htc_passion" />
   <project name="CyanogenMod/android_device_htc_passion-common" />
   <project name="CyanogenMod/android_device_htc_pyramid" />
+  <project name="CyanogenMod/android_device_htc_ruby" />
   <project name="CyanogenMod/android_device_htc_saga" />
+  <project name="CyanogenMod/android_device_htc_shooter" />
+  <project name="CyanogenMod/android_device_htc_shooteru" />
   <project name="CyanogenMod/android_device_htc_speedy" />
   <project name="CyanogenMod/android_device_htc_supersonic" />
   <project name="CyanogenMod/android_device_htc_vision" />
@@ -120,6 +123,9 @@
   <project name="CyanogenMod/android_device_samsung_i777" />
   <project name="CyanogenMod/android_device_samsung_maguro" />
   <project name="CyanogenMod/android_device_samsung_mesmerizemtd" />
+  <project name="CyanogenMod/android_device_samsung_p1" />
+  <project name="CyanogenMod/android_device_samsung_p1-common" />
+  <project name="CyanogenMod/android_device_samsung_p1c" />
   <project name="CyanogenMod/android_device_samsung_p4-common" />
   <project name="CyanogenMod/android_device_samsung_p4tmo" />
   <project name="CyanogenMod/android_device_samsung_p4vzw" />
@@ -217,9 +223,11 @@
   <project name="CyanogenMod/android_external_libncurses" />
   <project name="CyanogenMod/android_external_libnfc-nxp" />
   <project name="CyanogenMod/android_external_libpcap" />
+  <project name="CyanogenMod/android_external_libphonenumber" />
   <project name="CyanogenMod/android_external_libpng" />
   <project name="CyanogenMod/android_external_libvpx" />
   <project name="CyanogenMod/android_external_libxml2" />
+  <project name="CyanogenMod/android_external_llvm" />
   <project name="CyanogenMod/android_external_lsof" />
   <project name="CyanogenMod/android_external_lzo" />
   <project name="CyanogenMod/android_external_mtpd" />
@@ -260,6 +268,7 @@
   <project name="CyanogenMod/android_external_vim" />
   <project name="CyanogenMod/android_external_webkit" />
   <project name="CyanogenMod/android_external_webp" />
+  <project name="CyanogenMod/android_external_webrtc" />
   <project name="CyanogenMod/android_external_wireless-tools" />
   <project name="CyanogenMod/android_external_wpa_supplicant" />
   <project name="CyanogenMod/android_external_wpa_supplicant_6" />
@@ -296,6 +305,9 @@
   <project name="CyanogenMod/android_hardware_ti_wl12xx" />
   <project name="CyanogenMod/android_hardware_ti_wlan" />
   <project name="CyanogenMod/android_hardware_ti_wpan" />
+  <project name="CyanogenMod/android_kernel_samsung_aries" />
+  <project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" />
+  <project name="CyanogenMod/android_kernel_samsung_p1" />
   <project name="CyanogenMod/android_kernel_samsung_victory" />
   <project name="CyanogenMod/android_libcore" />
   <project name="CyanogenMod/android_ndk" />
@@ -383,6 +395,7 @@
   <project name="CyanogenMod/android_vendor_google_passion" />
   <project name="CyanogenMod/android_vendor_htc_dream_sapphire" />
   <project name="CyanogenMod/android_vendor_qcom_android-open" />
+  <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
@@ -396,6 +409,7 @@
   <project name="CyanogenMod/CMStatsServer" />
   <project name="CyanogenMod/device_htc_marvel" />
   <project name="CyanogenMod/geeksphone-kernel-zero" />
+  <project name="CyanogenMod/GetCM" />
   <project name="CyanogenMod/hp-kernel-tenderloin" />
   <project name="CyanogenMod/htc-kernel-espresso" />
   <project name="CyanogenMod/htc-kernel-incrediblec" />
