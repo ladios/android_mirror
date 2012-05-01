@@ -78,6 +78,7 @@
   <project name="CyanogenMod/android_device_lge_star-common" />
   <project name="CyanogenMod/android_device_lge_thunderc" />
   <project name="CyanogenMod/android_device_lge_thunderg" />
+  <project name="CyanogenMod/android_device_lge_v909" />
   <project name="CyanogenMod/android_device_lge_victor-common" />
   <project name="CyanogenMod/android_device_malata_smb-common" />
   <project name="CyanogenMod/android_device_malata_smb_a1002" />
@@ -126,6 +127,8 @@
   <project name="CyanogenMod/android_device_samsung_p1" />
   <project name="CyanogenMod/android_device_samsung_p1-common" />
   <project name="CyanogenMod/android_device_samsung_p1c" />
+  <project name="CyanogenMod/android_device_samsung_p3" />
+  <project name="CyanogenMod/android_device_samsung_p4" />
   <project name="CyanogenMod/android_device_samsung_p4-common" />
   <project name="CyanogenMod/android_device_samsung_p4tmo" />
   <project name="CyanogenMod/android_device_samsung_p4vzw" />
@@ -138,6 +141,7 @@
   <project name="CyanogenMod/android_device_samsung_sidekick4g" />
   <project name="CyanogenMod/android_device_samsung_tass" />
   <project name="CyanogenMod/android_device_samsung_toro" />
+  <project name="CyanogenMod/android_device_samsung_toroplus" />
   <project name="CyanogenMod/android_device_samsung_tuna" />
   <project name="CyanogenMod/android_device_samsung_vibrant" />
   <project name="CyanogenMod/android_device_samsung_vibrantmtd" />
@@ -305,9 +309,15 @@
   <project name="CyanogenMod/android_hardware_ti_wl12xx" />
   <project name="CyanogenMod/android_hardware_ti_wlan" />
   <project name="CyanogenMod/android_hardware_ti_wpan" />
+  <project name="CyanogenMod/android_kernel_asus_tf101" />
+  <project name="CyanogenMod/android_kernel_asus_tf201" />
+  <project name="CyanogenMod/android_kernel_lge_v909" />
   <project name="CyanogenMod/android_kernel_samsung_aries" />
+  <project name="CyanogenMod/android_kernel_samsung_crespo" />
   <project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" />
   <project name="CyanogenMod/android_kernel_samsung_p1" />
+  <project name="CyanogenMod/android_kernel_samsung_smdk4210" />
+  <project name="CyanogenMod/android_kernel_samsung_tuna" />
   <project name="CyanogenMod/android_kernel_samsung_victory" />
   <project name="CyanogenMod/android_libcore" />
   <project name="CyanogenMod/android_ndk" />
@@ -398,6 +408,7 @@
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
+  <project name="CyanogenMod/android_vendor_qcom_opensource_v8" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project name="CyanogenMod/android_vendor_tmobile_products_themes" />
@@ -426,12 +437,14 @@
   <project name="CyanogenMod/lge-kernel-msm7x30" />
   <project name="CyanogenMod/lge-kernel-sniper" />
   <project name="CyanogenMod/lge-kernel-star" />
+  <project name="CyanogenMod/motorola-kernel-stingray" />
   <project name="CyanogenMod/samsung-kernel-c1" />
-  <project name="CyanogenMod/samsung-kernel-crespo" />
   <project name="CyanogenMod/samsung-kernel-galaxys" />
   <project name="CyanogenMod/samsung-kernel-hercules" />
+  <project name="CyanogenMod/semc-kernel-msm7x30" />
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project name="CyanogenMod/tools_repo" />
+  <project name="CyanogenMod/zte-kernel-msm7x27" />
   <project name="koush/proprietary_vendor_akm" />
   <project name="koush/proprietary_vendor_bn" />
   <project name="koush/proprietary_vendor_broadcom" />
