@@ -41,6 +41,7 @@
   <project name="CyanogenMod/android_device_htc_click" />
   <project name="CyanogenMod/android_device_htc_common" />
   <project name="CyanogenMod/android_device_htc_desirec" />
+  <project name="CyanogenMod/android_device_htc_doubleshot" />
   <project name="CyanogenMod/android_device_htc_dream_sapphire" />
   <project name="CyanogenMod/android_device_htc_espresso" />
   <project name="CyanogenMod/android_device_htc_glacier" />
@@ -202,6 +203,7 @@
   <project name="CyanogenMod/android_external_busybox" />
   <project name="CyanogenMod/android_external_bzip2" />
   <project name="CyanogenMod/android_external_chromium" />
+  <project name="CyanogenMod/android_external_clang" />
   <project name="CyanogenMod/android_external_clearsilver" />
   <project name="CyanogenMod/android_external_compcache" />
   <project name="CyanogenMod/android_external_dbus" />
@@ -250,6 +252,7 @@
   <project name="CyanogenMod/android_external_llvm" />
   <project name="CyanogenMod/android_external_lsof" />
   <project name="CyanogenMod/android_external_lzo" />
+  <project name="CyanogenMod/android_external_mesa3d" />
   <project name="CyanogenMod/android_external_mtpd" />
   <project name="CyanogenMod/android_external_nano" />
   <project name="CyanogenMod/android_external_netcat" />
@@ -263,6 +266,7 @@
   <project name="CyanogenMod/android_external_oprofile" />
   <project name="CyanogenMod/android_external_pigz" />
   <project name="CyanogenMod/android_external_ping" />
+  <project name="CyanogenMod/android_external_ping6" />
   <project name="CyanogenMod/android_external_ppp" />
   <project name="CyanogenMod/android_external_proguard" />
   <project name="CyanogenMod/android_external_protobuf" />
@@ -399,6 +403,7 @@
   <project name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project name="CyanogenMod/android_packages_experimental" />
   <project name="CyanogenMod/android_packages_inputmethods_LatinIME" />
+  <project name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project name="CyanogenMod/android_packages_providers_ContactsProvider" />
@@ -444,6 +449,7 @@
   <project name="CyanogenMod/geeksphone-kernel-zero" />
   <project name="CyanogenMod/GetCM" />
   <project name="CyanogenMod/hp-kernel-tenderloin" />
+  <project name="CyanogenMod/htc-kernel-doubleshot" />
   <project name="CyanogenMod/htc-kernel-espresso" />
   <project name="CyanogenMod/htc-kernel-incrediblec" />
   <project name="CyanogenMod/htc-kernel-liberty" />
