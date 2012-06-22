@@ -71,6 +71,7 @@
   <project name="CyanogenMod/android_device_huawei_u8150" />
   <project name="CyanogenMod/android_device_huawei_u8220" />
   <project name="CyanogenMod/android_device_lge_c660" />
+  <project name="CyanogenMod/android_device_lge_e400" />
   <project name="CyanogenMod/android_device_lge_e510" />
   <project name="CyanogenMod/android_device_lge_e720" />
   <project name="CyanogenMod/android_device_lge_e730" />
@@ -132,6 +133,7 @@
   <project name="CyanogenMod/android_device_samsung_herring" />
   <project name="CyanogenMod/android_device_samsung_i777" />
   <project name="CyanogenMod/android_device_samsung_i9100g" />
+  <project name="CyanogenMod/android_device_samsung_i9300" />
   <project name="CyanogenMod/android_device_samsung_maguro" />
   <project name="CyanogenMod/android_device_samsung_mesmerizemtd" />
   <project name="CyanogenMod/android_device_samsung_msm8660-common" />
@@ -338,9 +340,11 @@
   <project name="CyanogenMod/android_kernel_samsung_aries" />
   <project name="CyanogenMod/android_kernel_samsung_crespo" />
   <project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" />
+  <project name="CyanogenMod/android_kernel_samsung_msm8660-common" />
   <project name="CyanogenMod/android_kernel_samsung_p1" />
   <project name="CyanogenMod/android_kernel_samsung_p4" />
   <project name="CyanogenMod/android_kernel_samsung_smdk4210" />
+  <project name="CyanogenMod/android_kernel_samsung_smdk4412" />
   <project name="CyanogenMod/android_kernel_samsung_t1" />
   <project name="CyanogenMod/android_kernel_samsung_tuna" />
   <project name="CyanogenMod/android_kernel_samsung_victory" />
@@ -432,6 +436,7 @@
   <project name="CyanogenMod/android_vendor_google_passion" />
   <project name="CyanogenMod/android_vendor_htc_dream_sapphire" />
   <project name="CyanogenMod/android_vendor_qcom_android-open" />
+  <project name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
